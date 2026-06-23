@@ -1,7 +1,7 @@
 export default function ProductsPage() {
   return (
     <div className="space-y-4 max-w-2xl">
-      <h1 className="text-2xl font-bold">IC-friendly guides and resources</h1>
+      <h1 className="text-2xl font-bold">IC-friendly guide and resource</h1>
       <p className="text-sm text-slate-700">
         These are simple, practical resources created from lived experience with IC.
         They&apos;re meant to save you time, energy, and guesswork.
